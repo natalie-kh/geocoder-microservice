@@ -19,3 +19,6 @@ Metrics/BlockLength:
 
 Lint/NonDeterministicRequireOrder:
   Enabled: false
+
+MethodLength:
+  Max: 20

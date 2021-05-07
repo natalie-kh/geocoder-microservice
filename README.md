@@ -14,7 +14,7 @@ bundle install
 
 ## Run application:
 ```
-bin/puma
+bin/app
 ```
 
 ## Run specs and console
