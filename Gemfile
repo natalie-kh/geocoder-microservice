@@ -9,7 +9,9 @@ gem 'rake', '~> 13.0.1'
 gem 'config', '~> 2.2.1'
 gem 'i18n', '~> 1.8.2'
 
+gem 'amazing_print'
 gem 'bunny', '~> 2.15.0'
+gem 'ougai', '~> 1.8.5'
 
 gem 'dry-initializer', '~> 3.0.3'
 gem 'dry-validation', '~> 1.5.0'
