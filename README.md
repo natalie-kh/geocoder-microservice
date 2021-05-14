@@ -8,7 +8,7 @@
 
 ## Installation
 ```
-git clone git@github.com:natalya-bogdanova/auth_microservice.git && cd auth_microservice
+git clone https://github.com/natalya-bogdanova/geocoder-microservice.git && cd geocoder-microservice
 bundle install
 ```
 
